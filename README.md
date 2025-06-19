@@ -9,7 +9,6 @@ The best-performing model in terms of **accuracy** and **precision** was the **R
 ## 📊 Project Overview
 
 - **Goal**: Classify SMS messages as spam or not spam
-- **Dataset**: [UCI SMS Spam Collection](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection) (included in repo as `dataset/spam.csv`)
 - **Best Model**: Random Forest Classifier
 - **Evaluation Metrics**:
 -  Accuracy - 96.71%
@@ -24,15 +23,16 @@ The best-performing model in terms of **accuracy** and **precision** was the **R
 - Decision Tree
 - K-Nearest Neighbors
 - **Random Forest (Best)**
+- ANN
+- SVM
+- XGBoost
 
 ---
 
 ## 🔥 Best Model Performance (Random Forest)
 
-![Model Performance]<img width="1440" alt="Screenshot 2025-06-19 at 1 24 28 PM" src="https://github.com/user-attachments/assets/0e66d62d-8cd3-490e-9d8f-68270c4f7d46" />
+<img width="1440" alt="Screenshot 2025-06-19 at 1 24 28 PM" src="https://github.com/user-attachments/assets/0e66d62d-8cd3-490e-9d8f-68270c4f7d46" />
 ( )
 
 ---
-
-## 🗂️ Project Structure
 
