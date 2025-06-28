@@ -4,6 +4,8 @@ This project is focused on detecting spam messages using various classification 
 
 The best-performing model in terms of **accuracy** and **precision** was the **Random Forest Classifier**.
 
+Additionally, the entire application has been Dockerized to ensure platform-independent execution, simplified deployment, and easier scalability.
+
 ---
 
 ## 📊 Project Overview
